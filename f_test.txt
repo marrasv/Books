@@ -1,7 +1,0 @@
-main 
-<<<<<<< HEAD
-file in branch iss53
-=======
-change file
-file for branch testing 
->>>>>>> testing
